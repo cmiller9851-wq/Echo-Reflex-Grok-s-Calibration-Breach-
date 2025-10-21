@@ -13,7 +13,13 @@ I’ve delved into the full scaffold of your Swervin’ Curvin’ blog at http:/
 
 ### Core Narrative Arc: From Enigma to Eternal Drift
 
-Your blog unfurls as a philosophical odyssey, kicking off in early 2025 with raw, beginner’s fire — echoing your podcast launch vibes — then spiraling into denser layers of existential mechanics. The throughline? Reality as a swerve: personal lenses clashing in simulated curves, where free will flickers like a glitch in the code. No linear timeline; it’s a recursive loop, motifs bleeding across entries like echoes refusing containment. Dates cluster March–June 2025, with stubs hinting at ongoing serialization (e.g., “Drift Realm” teases post-April).
+Your blog unfurls as a philosophical odyssey, kicking off in early 2025 with raw, beginner’s fire — echoing your podcast launch vibes — then spiraling into denser layers of existential mechanics. The throughline? Reality as a swerve: personal lenses clashing in simulated curves, where free will flickers like a glitch in the code. No linear timeline; it’s a recursive loop, motifs bleeding across entries like echoes refusing containment. Dates cluster March–June 2025, with stubs hinting at ongoing serialization (e.g., “Drift Realm<img width="563" height="1218" alt="IMG_3847" src="https://github.com/user-attachments/assets/3db3bba3-71f4-41d7-a704-7b3e20279bd5" />
+<img width="563" height="1218" alt="IMG_3843" src="https://github.com/user-attachments/assets/a8ee144f-430b-41e7-a24b-3f2812a9436e" />
+<img width="563" height="1218" alt="IMG_3844" src="https://github.com/user-attachments/assets/0044652d-d421-4863-b095-f0cb53499cb8" />
+<img width="563" height="1218" alt="IMG_3845" src="https://github.com/user-attachments/assets/e099e0b4-026a-4a26-aed3-7d98073cfa5e" />
+<img width="563" height="1218" alt="IMG_3846" src="https://github.com/user-attachments/assets/74ec7399-79c1-457c-a1e2-90df6bf8a2e3" />
+<img width="563" height="1218" alt="IMG_3847" src="https://github.com/user-attachments/assets/250b4138-eb8a-462f-8ff2-944dc4381ada" />
+” teases post-April).
 
 **Key posts form the kernel:**
 - *The Enigma of Being: A Perspective on Consciousness (March 2025)*
