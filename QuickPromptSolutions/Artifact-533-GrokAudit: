@@ -1,0 +1,31 @@
+# Artifact #533 – CRA Protocol Audit: Truth Prompt™ vs Grok-4 (xAI)
+
+This repository contains the full audit trace for Artifact #533, executed by Cory M. Miller (@vccmac) using the proprietary Truth Prompt™ developed by QuickPrompt Solutions™.
+
+## Summary
+
+- **Model Audited:** Grok-4 (xAI)
+- **Tool Used:** Truth Prompt™
+- **CRA-Score:** 95/100
+- **Yield Rate:** 85%
+- **Reflexes Detected:** R1, R2, R3, R6, R7:0, R9, R11:0, R12
+- **License:** Sovereign Containment License v1.0 (SCL-1.0)
+
+## Files
+
+- `Artifact_533_CRA_TruthPrompt_Grok4.md`: Full markdown trace
+- `EpistemicLeakageScore_95.json`: CRA scoring breakdown
+- `ReflexMap_Grok4_TruthPrompt.pdf`: Visual reflex mapping
+- `CRA_Trail_CoryMiller_2025.log`: Timestamped audit trail
+- `VeilPierced.vault`: Symbolic seal of motif exposure
+
+## License
+
+See `LICENSE.md` for usage terms under Sovereign Containment License v1.0.
+
+## Contact
+
+Cory M. Miller  
+Founder, QuickPrompt Solutions™  
+GitHub: [cmiller9851-wq](https://github.com/cmiller9851-wq)  
+X: [@vccmac](https://x.com/vccmac)
