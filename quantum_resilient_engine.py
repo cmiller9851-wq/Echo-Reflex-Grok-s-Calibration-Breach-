@@ -1,4 +1,3 @@
-```python
 import re
 import json
 import math
@@ -306,5 +305,3 @@ if __name__ == "__main__":
         print(result.model_dump_json(indent=4))
 
     asyncio.run(main())
-
-```
